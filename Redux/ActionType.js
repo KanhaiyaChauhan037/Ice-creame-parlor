@@ -1,0 +1,10 @@
+export const Reqlogin = "Reqlogin"
+export const Loading = "Loading"
+export const Error = "Error"
+export const AddIce = "AddIce";
+export const FetchIce = "FetchIce";
+export const EditIce = "EditIce";
+export const DeleteIce = "DeleteIce";
+export const CartIce = "CartIce";
+export const Cartfetch = "Cartfetch";
+export const CartDelete = "CartDelete";
